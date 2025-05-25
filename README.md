@@ -1,5 +1,5 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Register Number :Tarunika D
+# Register Number : Gughan S
 # Date : 10.04.2025
 # AIM :
 ## To write a C program to implement a symbol table.
